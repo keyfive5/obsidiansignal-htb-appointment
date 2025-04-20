@@ -47,7 +47,7 @@ bash scripts/login-sqli.sh 10.129.99.212
 ```
 
 ## 6. Results
-- **Flag:** `flag{...}`
+- **Flag:** `e3d0796d002a446c0e622226f42e9672`
 
 ## 7. Lessons Learned
 - Unsanitized inputs lead to trivial authentication bypass.  
