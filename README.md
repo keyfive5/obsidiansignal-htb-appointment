@@ -55,7 +55,7 @@ SQL‑Injection Bypass
 🤝 Connect
 - GitHub: keyfive5
 - Dev.to: https://dev.to/keyfive5
-- Twitter: https://twitter.com/keyfive5
-- LinkedIn: https://linkedin.com/in/your-profile
+- Twitter: https://twitter.com/obsidiansignal0
+- LinkedIn: https://linkedin.com/in/mz-cs
 
 “Looking for paid pentesting or cloud‑infra security gigs? Let’s connect!”
